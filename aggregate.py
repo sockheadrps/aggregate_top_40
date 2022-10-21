@@ -1,7 +1,7 @@
 import requests
 import bs4
 
-url = r"https://www.musixmatch.com/explore/genre/Country"
+
 urls = [r"https://www.musixmatch.com/explore/genre/Country",
 		r"https://www.musixmatch.com/explore/genre/Alternative",
 		r"https://www.musixmatch.com/explore/genre/Dance",
